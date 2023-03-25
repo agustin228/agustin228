@@ -18,8 +18,17 @@
 
 ## Language and Tools
 <!-- Most Used Language -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agustin228&layout=compact"/>
+    <div style="margin-right: 20px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agustin228&layout=compact"/>
+      </div>
+  
 <!--   Github Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=agustin228&show_icons=true" style="margin-left: 20px"/>
+    <div>
+          <img src="https://github-readme-stats.vercel.app/api?username=agustin228&show_icons=true" style="margin-left: 20px"/>
+      </div>
+
 <!--   Total Contribution -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin228"/>
+    <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin228"/>
+      </div>
+  
