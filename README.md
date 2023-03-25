@@ -21,8 +21,8 @@
 <br/>
     
 <!-- Most Used Language -->
-    <!--   Github Stats -->
-    <!--   Total Contribution -->
+<!--   Github Stats -->
+<!--   Total Contribution -->
    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agustin228&layout=compact"/>
     
