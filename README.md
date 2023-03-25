@@ -17,8 +17,9 @@
 <div/>
 
 ## Language and Tools
-
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=agustin228&show_icons=true"/>
+<!-- Most Used Language -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agustin228&layout=compact"/>
+<!--   Github Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=agustin228&show_icons=true"/>
+<!--   Total Contribution -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin228"/>
